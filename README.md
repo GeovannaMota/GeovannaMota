@@ -1,2 +1,8 @@
-## Hi there
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F862861609880400095%2F&psig=AOvVaw2H_PKBa14jAQmyQHShOami&ust=1716634307705000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNiLy6OPpoYDFQAAAAAdAAAAABAE)
+Boas vindas ao meu perfil 💙💙
+Meu nome é Geovanna Mota 
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+![](https://tenor.com/pt-BR/view/cat-22-cat-22-gif-1269004317513322794)
+
